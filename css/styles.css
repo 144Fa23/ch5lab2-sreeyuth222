@@ -96,6 +96,7 @@ main h3 {
 
 main ul {
     list-style-type: square;
+    text-align: left;
 }
 
 .link {
